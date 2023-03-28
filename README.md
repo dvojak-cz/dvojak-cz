@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am cybersecurity student from Czechia<br><br>I am mostly intrested in Ops, Infrastracture, DevOps, Security and cool technologies like Kubernetes...<br><br>I love to learning and trying new thinks.<br>
+Hey, I am cybersecurity student from Czechia<br><br>I am mostly intrested in Ops, Infrastracture, DevOps, Security and cool technologies like Kubernetes<br><br>I love to learning and trying new thinks.<br>
 
 
 ## 🌐 Socials:
