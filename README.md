@@ -11,6 +11,6 @@ I am mostly intrested in Ops, Infrastracture, DevOps, Security and cool technolo
 
 
 ## Skills
-![Programming](https://skillicons.dev/icons?i=c,cs,cpp,dotnet,go,py&theme=light)
+![Programming](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,py&theme=light)
 
-![Ops+DevOps](https://skillicons.dev/icons?i=ansible,bash,docker,githubactions,gitlab,github,grafana,kubernetes,linux,nginx,prometheus&theme=light)
+![Ops+DevOps](https://skillicons.dev/icons?i=bash,ansible,linux,docker,kubernetes,nginx,grafana,prometheus,github,gitlab,githubactions,&theme=light)
