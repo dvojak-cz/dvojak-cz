@@ -1,4 +1,3 @@
-# About Me:
 Hey, I am cybersecurity student from Czechia
 
 I am mostly intrested in Ops, Infrastracture, DevOps, Security and cool technologies like Kubernetes
