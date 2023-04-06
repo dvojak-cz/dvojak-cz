@@ -8,8 +8,6 @@ I am mostly intrested in Ops, Infrastracture, DevOps, Security and cool technolo
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/dvojak_cz)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/jan-troj%C3%A1k-66ba23169/)
 
-
-
 ## Skills
 ![Programming](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,py&theme=light)
 
