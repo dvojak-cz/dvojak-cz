@@ -4,4 +4,13 @@ I am mostly intrested in Ops, Infrastracture, DevOps, Security and cool technolo
 
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jantrojak24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jan-troják-66ba23169) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dvojak_cz) 
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/dvojak-cz/)
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/dvojak_cz)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/jan-troj%C3%A1k-66ba23169/)
+
+
+
+## Skills
+![Programming](https://skillicons.dev/icons?i=c,cs,cpp,dotnet,go,py&theme=light)
+
+![Ops+DevOps](https://skillicons.dev/icons?i=ansible,bash,docker,githubactions,gitlab,github,grafana,kubernetes,linux,nginx,prometheus&theme=light)]
