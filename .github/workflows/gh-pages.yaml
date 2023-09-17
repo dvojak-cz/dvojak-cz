@@ -1,0 +1,26 @@
+name: Deploy page
+
+env:
+  PAGE_PATH: page
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: clone
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+      - run: python3 generate_page.py ${{env.PAGE_PATH}} > ${{env.PAGE_PATH}}/index.html
+      - uses: actions/upload-pages-artifact@v1
+        with:
+          path: ${{env.PAGE_PATH}}
+      - uses: actions/deploy-pages@v1
